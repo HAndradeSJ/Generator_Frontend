@@ -8,6 +8,7 @@ export default createGlobalStyle`
         padding:0;
         buttom:0;
         box-sizing: border-box;
+        font-family: 'Raleway', sans-serif;
     }
     
 `

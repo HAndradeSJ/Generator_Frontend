@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
         <Header>
             <Imagem src={logo} alt={'logo funcioanando'} />
-            <Buttonmodel>Modelos</Buttonmodel>
+            <Buttonmodel>Meus Modelos</Buttonmodel>
             <Buttonnew>Novo Modelo</Buttonnew>
         </Header>
   )
