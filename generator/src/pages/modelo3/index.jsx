@@ -1,11 +1,12 @@
 // Importações
 import React from 'react';
+import Navbar from '../../components/navabar';
 
 // Aplicação
 const Modelo3 = ()=>{
     return(
         <>
-            <h1>ESSa é a rota Modelo3 </h1>
+             <Navbar/>
         </>
     )
 }

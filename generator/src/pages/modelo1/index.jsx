@@ -1,13 +1,13 @@
 // Importações
 import React,{useState,useEffect} from 'react';
+import Navbar from '../../components/navabar';
 
 // Aplicação
 const Modelo1 = ()=>{
-      
-        
     return(
         <>
-            <h1>ESSa é a rota modelo1 </h1>
+            <Navbar/>
+            
         </>
     )
 }
