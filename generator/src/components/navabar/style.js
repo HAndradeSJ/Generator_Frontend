@@ -23,7 +23,7 @@ export const Buttonnew = styled.button`
     width:7vw;
     height:5vh;
     background-color:white;
-    color:white;
+    color:black;
     border-radius:100px;
 `
 export const Buttonmodel = styled.button`
@@ -31,6 +31,12 @@ export const Buttonmodel = styled.button`
     width:7vw;
     height:5vh;
     background-color:white;
-    color:white;
+    color:black;
     border-radius:100px;
+`
+
+export const Imagem = styled.img`
+    object-fit: cover;
+    height: 45%;
+    margin-top: 0.4rem;
 `

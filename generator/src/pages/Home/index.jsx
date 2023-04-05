@@ -7,7 +7,6 @@ const Home = ()=>{
     return(
         <div>
             <Navbar/>
-            <h1>oi</h1>
         </div>
     )
 }
