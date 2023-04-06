@@ -20,6 +20,8 @@ export const Buttonnew = styled.button`
     color:white;
     border-radius:80px;
     margin-top:7vh;
+    cursor: pointer;
+    
 `
 export const Buttonmodel = styled.button`
     border:none;
@@ -30,6 +32,8 @@ export const Buttonmodel = styled.button`
     color:white;
     border-radius:80px;
     margin-top:7vh;
+    cursor: pointer;
+    
 `
 
 export const Imagem = styled.img`
@@ -38,4 +42,6 @@ export const Imagem = styled.img`
     margin-top: 0.4rem;
     margin-right:50vw;
     margin-top:6vh;
+    cursor: pointer;
+    
 `
