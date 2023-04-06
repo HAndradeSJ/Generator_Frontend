@@ -72,3 +72,8 @@ export const Box = styled.div`
     display:flex;
     flex-direction: column;
 `
+export const Master = styled.div`
+    width:100%;
+    display:flex;
+    justify-content:space-between;
+`
