@@ -4,9 +4,11 @@ import Navbar from '../../components/navabar';
 
 // Aplicação
 const Modelos = ()=>{
+    
     return(
         <>
             <Navbar/>
+            
         </>
     )
 }
