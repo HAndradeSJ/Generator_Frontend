@@ -81,3 +81,11 @@ export const Check = styled.input`
     background-color:#eee;
     
 `
+
+export const caixinha = styled.div`
+    display: flex;
+    padding:0 10 20px;
+
+
+
+`
