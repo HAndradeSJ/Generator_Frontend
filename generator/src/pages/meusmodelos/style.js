@@ -68,7 +68,7 @@ export const Checkbox = styled.div`
     flex-direction:column;
     padding:2;
     width:200px;
-    height:200px;   
+    height:90px;   
 `
 
 export const Label = styled.label`

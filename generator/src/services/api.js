@@ -2,8 +2,11 @@
 import axios from 'axios'
 import React from 'react'
 
-// estabelecendo a conexação react como servidor express
-export default axios.create({
-    baseURL: 'http://localhost:8081'
+// Criando uma estancia da nossa API
+const Api = axios.create({
+    baseURL:window.location.href.includes("localhost:8081")
+    
 })
 
+
+export default Api;
